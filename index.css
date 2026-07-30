@@ -1,0 +1,4 @@
+p { 
+    system: extends;
+    types: text;
+    color : rgb(255, 0, 0); }
